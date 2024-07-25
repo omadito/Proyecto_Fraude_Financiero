@@ -1,0 +1,29 @@
+--Tran. Fraudulenta
+[
+   {
+      "monto":181,
+      "saldo_antes_origen":181,
+      "saldo_despues_origen":0,
+      "saldo_antes_destino":21182,
+      "saldo_despues_destino":0,
+      "tipo_transaccion_CASH_OUT":1,
+      "tipo_transaccion_DEBIT":0,
+      "tipo_transaccion_PAYMENT":0,
+      "tipo_transaccion_TRANSFER":0
+   }
+]
+
+--Tran. NO Fraudulenta
+[
+   {
+      "monto":9839.64,
+      "saldo_antes_origen":170136,
+      "saldo_despues_origen":160296.36,
+      "saldo_antes_destino":0,
+      "saldo_despues_destino":0,
+      "tipo_transaccion_CASH_OUT":0,
+      "tipo_transaccion_DEBIT":0,
+      "tipo_transaccion_PAYMENT":1,
+      "tipo_transaccion_TRANSFER":0
+   }
+]
